@@ -18,4 +18,4 @@
 - Motor Drivers & Control Systems  
 
 📫 **Connect with me:**  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/krish0700
