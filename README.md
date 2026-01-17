@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 I'm Krish
 
-<!--
-**krish0700/krish0700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔌 Electronics & Embedded Systems Enthusiast  
+💻 Learning Web Development (Flask, HTML, CSS)  
+📚 Interested in Mechanics and Core Engineering  
+⚙️ Working with ESP32, Arduino & Embedded C  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- Programming: C, Python, Embedded C  
+- Microcontrollers: ESP32, Arduino  
+- Web: HTML, CSS, Flask  
+- Tools: Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Embedded Systems Design  
+- Backend Web Development  
+- Motor Drivers & Control Systems  
+
+📫 **Connect with me:**  
+GitHub: https://github.com/your-username
